@@ -28,3 +28,4 @@ def get_original_palindrome(l):
 
 
 print(get_original_palindrome("rtyrty"))
+print(get_original_palindrome("fffgghh"))
